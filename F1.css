@@ -1,0 +1,25 @@
+body{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Titillium Web';
+
+}
+.track-template{
+    display: flex;
+    flex-wrap: wrap;
+
+    
+
+    margin-top: 150px;
+
+    background-color: rgb(0,66,37);
+
+    
+}
+
+.track-profile{
+    display: flex;
+    color: white;
+    /*flex-basis: 33.33%;*/
+
+
+}

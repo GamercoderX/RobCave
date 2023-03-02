@@ -1,0 +1,16 @@
+#dot {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+    transition: bottom 0.5s linear, right 0.5s linear;
+
+  }
+
+  body{
+    background-color: black;
+  }
+

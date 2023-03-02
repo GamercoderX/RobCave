@@ -1,0 +1,15 @@
+body{
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: green;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.subcontainer{
+    display: flex;
+    flex-direction: column;
+}
